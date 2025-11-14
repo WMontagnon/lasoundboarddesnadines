@@ -32,11 +32,13 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   padding: 20px;
   margin-bottom: 30px;
 
   .logo {
     width: 500px;
+    max-width: 100%;
     object-fit: contain;
   }
 
