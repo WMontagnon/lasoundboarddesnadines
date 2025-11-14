@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1008 267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(1,0,0,1,2,-264)">
+        <rect x="-2" y="264" width="1008" height="267" style="fill:none;"/>
+        <g transform="matrix(1,0,0,1,-141,104)">
+            <g transform="matrix(83.333333,0,0,83.333333,238.612321,231.23495)">
+            </g>
+            <text x="150.196px" y="231.235px" style="font-family:'Harlekin';font-weight:500;font-size:83.333px;fill:white;">La</text>
+        </g>
+        <g transform="matrix(0.666188,0,0,0.666188,397.323998,218.77923)">
+            <g transform="matrix(125.089726,0,0,125.089726,878.52132,418)">
+            </g>
+            <text x="326px" y="418px" style="font-family:'Harlekin';font-weight:500;font-size:125.09px;fill:white;">des Nadines</text>
+        </g>
+        <g transform="matrix(0.601991,0,0,0.601991,-114.937101,328.996067)">
+            <g transform="matrix(207.64434,0,0,207.64434,1762.420362,181.80139)">
+            </g>
+            <text x="302.888px" y="181.801px" style="font-family:'ModernNeon', 'Modern Neon';font-size:207.644px;fill:url(#_Linear1);">soundbo<tspan x="1326.575px 1474.002px " y="181.801px 181.801px ">ar</tspan>d</text>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1067.108911,0,0,124.640264,302.888299,137.850895)"><stop offset="0" style="stop-color:rgb(0,2,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(215,187,1);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,0,175);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
