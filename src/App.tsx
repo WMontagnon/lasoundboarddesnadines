@@ -14,6 +14,8 @@ import mouhahaSound from './assets/mouHAHA.mp3'
 import alertRaidSound from './assets/alertRaid.mp3'
 import alertSubSound from './assets/alertSub.mp3'
 import joseNoCeBuenoSound from './assets/joseNoCeBueno.mp3'
+import preneursSonSound from './assets/preneursSon.mp3'
+import pipiSound from './assets/pipi.mp3'
 
 import Sound from './components/Sound'
 
@@ -43,6 +45,8 @@ function App() {
           <Sound soundComponent={alertSubSound} soundName="Alerte Sub" volume={volume} />
           <Sound soundComponent={alertRaidSound} soundName="Alerte Raid" volume={volume} />
           <Sound soundComponent={joseNoCeBuenoSound} soundName="Jose no ce buen" volume={volume} />
+          <Sound soundComponent={preneursSonSound} soundName="Préneurs Son" volume={volume} />
+          <Sound soundComponent={pipiSound} soundName="La chanson du Pipi" volume={volume} />
         </div>
       </main>
     </>
