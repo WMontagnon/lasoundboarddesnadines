@@ -8,6 +8,8 @@ import wrongAnswerSound from './assets/badAnswer.mp3'
 import creditSongSound from './assets/credits.mp3'
 import startFinalSound from './assets/startFinale.mp3'
 import goodAnswerFinaleSound from './assets/goodAnswerFinale.mp3'
+import bingoSound from './assets/bingso.mp3'
+import mouhahaSound from './assets/mouHAHA.mp3'
 
 import Sound from './components/Sound'
 
@@ -26,11 +28,13 @@ function App() {
       <main>
         <div className="soundboard">
           <Sound soundComponent={buzzerSound} soundName="Buzzer" volume={volume} /> 
-          <Sound soundComponent={goodAnswerSound} soundName="Good Answer" volume={volume} />
-          <Sound soundComponent={wrongAnswerSound} soundName="Wrong Answer" volume={volume} />
-          <Sound soundComponent={creditSongSound} soundName="Credit Song" volume={volume} />
-          <Sound soundComponent={startFinalSound} soundName="Start Final" volume={volume} />
-          <Sound soundComponent={goodAnswerFinaleSound} soundName="Good Answer Finale" volume={volume} />
+          <Sound soundComponent={goodAnswerSound} soundName="Bonne Réponse" volume={volume} />
+          <Sound soundComponent={wrongAnswerSound} soundName="Mauvaise Réponse" volume={volume} />
+          <Sound soundComponent={creditSongSound} soundName="Générique UFEO" volume={volume} />
+          <Sound soundComponent={startFinalSound} soundName="Début Finale UFEO" volume={volume} />
+          <Sound soundComponent={goodAnswerFinaleSound} soundName="Bonne Réponse Finale UFEO" volume={volume} />
+          <Sound soundComponent={bingoSound} soundName="Générique Bingo" volume={volume} />
+          <Sound soundComponent={mouhahaSound} soundName="Mouhaha" volume={volume} />
         </div>
       </main>
     </>
